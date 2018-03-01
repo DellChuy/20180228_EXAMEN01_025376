@@ -1,0 +1,3 @@
+En el examen se intenta implementar el strategy pattern implementado en los bancos donde puedan 
+usar los protocolos, y por otra parte se tiene una transferencia la cual emplea un formato. En donde se intenta que el banco se 
+comunique el con el convertir en donde el se comunicaeria con el recibir de cada banco destino.
